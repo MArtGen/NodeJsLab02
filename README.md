@@ -53,8 +53,7 @@ POST-запросы:
 				},
 				{
 					"order_date":"Tue-May-21-2019",
-					"order_cost":218
-					
+					"order_cost":218	
 				}
 			]
 		}
