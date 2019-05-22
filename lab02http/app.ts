@@ -75,6 +75,10 @@ const server = http.createServer((req, res) => {
     return notFoundError(res);
 });
 
+server.on('request', function(res: { headers: { host: string; connection: string; }; }) {
+    console.dir(res.headers.host + ' ' + res.headers.connection);
+})
+
 server.listen(PORT, HOST, () => console.log('Running'));
 
 function notFoundError(res: { end: (arg0: string) => void; }) {

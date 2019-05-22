@@ -1,1 +1,0 @@
-{"buyers":[{"id":1,"buyer":{"id":1,"orders":[{"order_date":"Tue-May-21-2019","order_cost":148},{"order_date":"Tue-May-21-2019","order_cost":259},{"order_date":"Tue-May-21-2019","order_cost":218}]}}],"month_sum":0}
