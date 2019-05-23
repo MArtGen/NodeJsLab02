@@ -3,8 +3,8 @@ NodeJsLab02 of Melekhau Artsiom
 Лаба 2, вариант 5.
 
 Запуск: 
-	ts-node app.ts         <- lab02http
-	ts-node www.ts         <- lab02express
+1) ts-node app.ts         <- lab02http
+2) ts-node www.ts         <- lab02express
 
 Запросы для lab02http и lab02express одинаковые:
 
